@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I am Muhammad Ahmad 👋
 
-<!--
-**MuhammadAhmadIT/MuhammadAhmadIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student learning Data Science and Machine Learning.
+I work mainly with Python and I enjoy solving problems using data.
 
-Here are some ideas to get you started:
+I am building projects to practice and improve my skills.
+My focus areas are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- 🐍 Python Programming
+
+I update my repositories regularly with new projects as I keep learning.
+Feel free to check out my latest work below 👇
